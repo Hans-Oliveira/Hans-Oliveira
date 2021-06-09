@@ -10,7 +10,7 @@
   
 </head>
 <body>
-<p>Meu nome é Matheus Hans Duffeck de Oliveira, sou casado, tenho 23 anos, moro em São José do Rio Preto - SP.</p>
+<p>Meu nome é Matheus Hans Duffeck de Oliveira, sou casado, tenho 2 anos, moro em São José do Rio Preto - SP.</p>
 <br>
 <p>Sou novo em programação, gosto bastante da parte de front-end mas meu objetivo é me tornar um Full Stack.</p>
 <br>
