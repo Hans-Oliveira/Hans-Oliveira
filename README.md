@@ -19,6 +19,8 @@
 <li>HTML 5</li>
 <li>CSS 3</li>
 <li>JAVA SCRIPT</li>
+<li>ANGULAR</li>
+<li>PHP</li>
 </ul>
 <br>
 <p>Estou estudando vue.js e assim que tiver confiaça e projetos desenvolvidos em vue.js começarei a estudar Node e Adonis<p>
