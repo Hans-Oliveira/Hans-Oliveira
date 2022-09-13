@@ -1,6 +1,6 @@
 ## Olá! eu sou Matheus Hans 😊
 
-<div align="center">
+<div align="center" display="block">
   <a href="https://github.com/Hans-Oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hans-Oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hans-Oliveira&layout=compact&langs_count=7&theme=dark"/>
