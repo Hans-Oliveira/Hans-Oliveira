@@ -1,29 +1,25 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+## Olá! eu sou Matheus Hans 😊
 
-  <link rel="icon" type="image/png" sizes="32x32" href="foto-perfil.png">
-  <link rel="stylesheet" href="style.css">
-  <title>Meu GitHub</title>
+<div align="center">
+  <a href="https://github.com/Hans-Oliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hans-Oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hans-Oliveira&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Hans-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Hans-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Hans-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Hans-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Hans-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Hans-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Hans-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+##
+
+<div> 
   
-</head>
-<body>
-<p>Meu nome é Matheus Hans Duffeck de Oliveira, sou casado, tenho 24 anos, moro em São José do Rio Preto - SP.</p>
-<br>
-<p>Sou novo em programação, gosto bastante da parte de front-end mas meu objetivo é me tornar um Full Stack.</p>
-<br>
-<p>Tenho conhecimento em:</p>
-<ul>
-<li>HTML 5</li>
-<li>CSS 3</li>
-<li>JAVA SCRIPT</li>
-<li>ANGULAR</li>
-<li>PHP</li>
-<li>BOOTSTRAP 5</li>
-</ul>
-<br>
-<p>Estou estudando vue.js e assim que tiver confiaça e projetos desenvolvidos em vue.js começarei a estudar Node e Adonis<p>
-<script src="app.js"></script>
-</body>
+  ![Snake animation](https://github.com/Hans-Oliveira/Hans-Oliveira/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
