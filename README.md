@@ -1,4 +1,6 @@
 ## Olá! eu sou Matheus Hans 😊
+Sou um profissional criativo e dedicado, sempre buscando aprender e me desenvolver. Acredito que meu entusiasmo faz parte significativamente para o meu sucesso.
+Desejo continuar crescendo como profissional na área de desenvolvimento de software, buscando cada vez mais uma evolução.
 
 <div align="center" display="block">
   <img height="180em" padding-left="5%" src="https://github-readme-stats.vercel.app/api?username=Hans-Oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
